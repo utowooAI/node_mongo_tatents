@@ -1,25 +1,25 @@
 {
-  "name": "node_mongo_tatents",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "multi-tenant",
-    "express",
-    "mongoose",
-    "middleware"
-  ],
-  "dependencies": {
-    "express": "^4.x.x",
-    "mongoose": "^6.x.x"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utowooAI/node_mongo_tatents.git"
-  },
-  "author": "utowooAI",
-  "license": "MIT"
+	"name": "node_mongo_tatents",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"multi-tenant",
+		"express",
+		"mongoose",
+		"middleware"
+	],
+	"dependencies": {
+		"express": "^4.17.3",
+		"mongoose": "^6.2.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/utowooAI/node_mongo_tatents.git"
+	},
+	"author": "utowooAI",
+	"license": "MIT"
 }
